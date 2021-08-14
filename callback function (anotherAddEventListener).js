@@ -2,9 +2,9 @@ function anotherAddEventListener (typeOfEvent, callback) {
 
     object creation
     var eventThatHappened = {
-        eventType keydown,
-        key p,
-        durationOfKeyPress 2
+        eventType: keydown,
+        key: p,
+        durationOfKeyPress: 2
     }
 
     test (returns object)
